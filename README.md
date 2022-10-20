@@ -14,7 +14,7 @@ I'm a Software Engineering student at Universidade de Brasília (UnB) and I'm cu
 
 *   🌍  I'm based in Brasília, Brazil.
 *   ✉️  You can contact me at [edilbertounbfga@gmail.com](mailto:edilbertounbfga@gmail.com)
-*   🤝  I'm open to collaborating on open source projects!
+
 
 ### Skills
 <div>
@@ -48,7 +48,6 @@ I'm a Software Engineering student at Universidade de Brasília (UnB) and I'm cu
     <a href="http://www.github.com/edilbertocantuaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilbertocantuaria&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/></a>
     
-    If this graph ever happens to be empty, call an ambulance:
     
   <a href="http://www.github.com/edilbertocantuaria"><img height="277em" src="https://activity-graph.herokuapp.com/graph?username=edilbertocantuaria&bg_color=121214&color=ffffff&line=8257e6&point=0891b2&area_color=121214&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   </div>
