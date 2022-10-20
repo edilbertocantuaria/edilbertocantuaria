@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css" />
-
 <p align="center">
     <a href="https://edilbertocantuaria.github.io">
         <img width="30%" class="fotoPerfil"alt="What's up? Edilberto Cantuaria here! - I'm a Full Stack Developer student!" src="./pictures/github-profile.jpg"></img>
@@ -9,7 +7,7 @@
 
 ![visitantes](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=edilbertocantuaria.edilbertocantuaria&color=202020&lcolor=46ceec)
 
-Hello, my friend 👋 
+Hi, I'm Edilberto 👋 
 ==============================
 
 I'm a Software Engineering student at Universidade de Brasília (UnB) and I'm currently focusing on Fullstack Development
