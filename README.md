@@ -49,9 +49,9 @@ I am a web development student at Driven Education with over +1200 hours and +30
   <a href="http://www.github.com/edilbertocantuaria"><img height='180em' src="https://github-readme-stats.vercel.app/api?username=edilbertocantuaria&show_icons=true&hide=&count_private=true&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true&show_icons=true" alt="edilbertocantuaria's GitHub stats" /></a>
     <a href="http://www.github.com/edilbertocantuaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilbertocantuaria&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/></a>
+   <img align="center" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=edilbertocantuaria&custom_title=edilbertocantuaria's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=D626E7&area=true&hide_border=true">
   </div>
 
-![snake gif](https://github.com/edilbertocantuaria/edilbertocantuaria/blob/output/github-contribution-grid-snake.svg)
 
 
   <br />
