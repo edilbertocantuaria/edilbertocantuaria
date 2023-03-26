@@ -27,6 +27,13 @@ I am a web development student at Driven Education with over +1200 hours and +30
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+### Others:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+## Technologies I want to learn soon
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="32" height="32" />
+
 
 ### Socials               
 <div> 
@@ -42,14 +49,10 @@ I am a web development student at Driven Education with over +1200 hours and +30
   <a href="http://www.github.com/edilbertocantuaria"><img height='180em' src="https://github-readme-stats.vercel.app/api?username=edilbertocantuaria&show_icons=true&hide=&count_private=true&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true&show_icons=true" alt="edilbertocantuaria's GitHub stats" /></a>
     <a href="http://www.github.com/edilbertocantuaria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilbertocantuaria&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/></a>
-    
-    <div align="center">
-  
-  ![Snake animation](https://github.com/edilbertocantuaria/edilbertocantuaria/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
   </div>
-  
+
+![snake gif](https://github.com/edilbertocantuaria/edilbertocantuaria/blob/output/github-contribution-grid-snake.svg)
+
+
   <br />
  </div>
