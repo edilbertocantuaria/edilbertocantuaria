@@ -23,7 +23,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: edilbertoalmeida #Seu usuario
+          github_user_name: edilbertocantuaria #Seu usuario
           # list of files to generate.
           # one file per line. Each output can be customized with options as query string.
           #
