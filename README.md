@@ -63,7 +63,7 @@ I am a web development student at Driven Education with over 1200 hours and 30 p
 
 ### Socials               
 <div> 
-  <a href="https://discord.com/users/edilbertoalmeida#7478" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+  <a href="https://discord.com/users/edilbertocantuaria#7478" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 </div>
 
 ### Stats
@@ -72,9 +72,9 @@ I am a web development student at Driven Education with over 1200 hours and 30 p
 
 <div align="center">
   <div align="center">
-  <a href="http://www.github.com/edilbertoalmeida"><img height='180em' src="https://github-readme-stats.vercel.app/api?username=edilbertoalmeida&show_icons=true&hide=&count_private=true&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true&show_icons=true" alt="edilbertoalmeida's GitHub stats" /></a>
-    <a href="http://www.github.com/edilbertoalmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilbertoalmeida&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/></a>
+  <a href="http://www.github.com/edilbertocantuaria"><img height='180em' src="https://github-readme-stats.vercel.app/api?username=edilbertocantuaria&show_icons=true&hide=&count_private=true&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true&show_icons=true" alt="edilbertocantuaria's GitHub stats" /></a>
+    <a href="http://www.github.com/edilbertocantuaria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilbertocantuaria&layout=compact&langs_count=7&title_color=8257e6&text_color=ffffff&icon_color=8257e6&bg_color=121214&hide_border=true"/></a>
    
   </div>
 
