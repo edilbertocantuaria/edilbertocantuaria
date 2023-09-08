@@ -1,12 +1,18 @@
-Hi, I'm Edilberto 👋 
-==============================
+# Hi, I'm Edilberto! 👋
 
-I'm a Software and Aeroespace Engineering student at Universidade de Brasília (UnB) and I'm currently focusing on Fullstack Development at Driven Education
+---
 
-*   🌍  I'm based in Brasília, Brazil.
-*   ✉️  You can contact me at [edilbertounbfga@gmail.com](mailto:edilbertounbfga@gmail.com)
+👋 Hello, I'm Edilberto, a Fullstack Web Developer with background in Aerospace Engineering, and I aim to bridge these seemingly distinct but highly integrated fields. Want to know more about my journey?
 
-I am a web development student at Driven Education with over 1200 hours and 30 practical projects using the main Front-end and Back-end technologies on the market. I have studied HTML5, CSS3, Javascript, and ReactJS as Front-end tools, and I am currently studying (or will soon study) Typescript, NodeJS, ExpressJS, MongoDb, PostgreSQL, Prisma. We have also covered some topics on the use of Agile Methodologies (Scrum), Git, Trello, Slack, Zoom, Discord, during group projects and other activities.
+🎓 Originally in Aerospace Engineering, I transitioned into software development and saw the opportunity to combine data science and software testing, essential areas for collecting, interpreting data, and take decisions in the industry.
+
+🚀💻 In over 20 recent projects, I've explored APIs, static/dynamic and responsive applications, solidifying my knowledge in HTML, CSS, JavaScript, React, Express, Node, and TypeScript, as well as managing and modeling data with MongoDB, PostgreSQL, and PrismaORM. I've honed problem-solving skills, teamwork, agile methodologies, and version control with Git/Github.
+
+🔮 In the future, I plan to study the field of Data Science and contribute voluntarily to the education of exact sciences and logical programming.
+
+🌟 In my free time, I enjoy being connected with nature, exploring trails, waterfalls, and also studying psychology. My extroverted, playful, and empathetic personality helps to build a pleasant work environments.
+
+📍 Check out the pinned projects! You can also reach me via email at edilbertounbfga@gmail.com.
 
 ### Skills
 
@@ -15,18 +21,15 @@ I am a web development student at Driven Education with over 1200 hours and 30 p
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-
 #### Back-end:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 ### ORM
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
 
 ### Frameworks, plataforms and libraries
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -66,7 +69,7 @@ I am a web development student at Driven Education with over 1200 hours and 30 p
   <a href="https://discord.com/users/edilbertocantuaria#7478" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 </div>
 
-### Stats
+### Status
 
 <br />
 
