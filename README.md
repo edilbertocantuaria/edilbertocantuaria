@@ -2,7 +2,7 @@
 
 ---
 
-👋 Hello, I'm Edilberto, a Fullstack Web Developer with background in Aerospace Engineering, and I aim to bridge these seemingly distinct but highly integrated fields. Want to know more about my journey?
+👋 Hello, I'm Edilberto, a Fullstack Web Developer with background in Aerospace and Software Engineering , and I aim to bridge these seemingly distinct but highly integrated fields. Want to know more about my journey?
 
 🎓 Originally in Aerospace Engineering, I transitioned into software development and saw the opportunity to combine data science and software testing, essential areas for collecting, interpreting data, and take decisions in the industry.
 
